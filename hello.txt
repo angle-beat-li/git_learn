@@ -6,4 +6,4 @@ hello world.
 hello world.
 master.
 one.
->>>>>>> one
+>>>>>>>a这是我今天开始学习gitonesda
